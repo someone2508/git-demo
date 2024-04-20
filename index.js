@@ -1,1 +1,1 @@
-console.log('Hello class!')
+console.log('Hello class! something');
