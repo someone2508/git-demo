@@ -1,3 +1,1 @@
-Hello class
-
-some changes that i am going to revert!
+Hello class!
